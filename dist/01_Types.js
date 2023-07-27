@@ -28,9 +28,9 @@ console.log(list5);
 /* 객체형 타입을 정하는 2가지 방법 */
 let obj = {};
 let obj2 = {
-  name: "kimcoding",
-  age: 20,
-  isDeveloper: true,
+    name: "kimcoding",
+    age: 20,
+    isDeveloper: true,
 };
 console.log(obj);
 console.log(obj2);
